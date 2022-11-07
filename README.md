@@ -9,6 +9,9 @@
 
 :microphone: Occasionally, I speak at conferences.
 
+:man_teacher:	I mentor and teach people at [Codebar](https://codebar.io/), [Meet a Mentor](https://meetamentor.co.uk/), [CodeYourFuture](https://codeyourfuture.io/) 
 
 :mailbox: Stay in touch on [Twitter](https://twitter.com/sasha_khivrych), [LinkedIn](https://www.linkedin.com/in/oleksandrkhivrych/)
+
+
 
