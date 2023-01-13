@@ -1,6 +1,6 @@
 # Hi there 👋
 
-:information_source: My name is Oleksandr (Sasha) Khivrych. I am a senior software engineer from London, UK.
+:information_source: My name is Oleksandr (Sasha) Khivrych. I am a senior software engineer based in London, UK.
 
 
 :briefcase: Senior SWE at [Beamery](https://beamery.com/).
