@@ -3,7 +3,7 @@
 :information_source: My name is Oleksandr (Sasha) Khivrych. I am a senior software engineer based in London, UK.
 
 
-:briefcase: Lead SWE at [Preqin](https://preqin.com/).
+:briefcase: VP, Lead SWE at [BlackRock](https://blackrock.com).
 
 :memo: I write about tech in my [blog](https://okhivrych.io/). 
 
