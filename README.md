@@ -5,7 +5,7 @@
 
 :briefcase: VP, Tech Lead SWE at [BlackRock](https://blackrock.com).
 
-:memo: I write about tech in my [blog](https://okhivrych.io/). 
+:memo: I write about tech in my [blog](https://okhivrych.hashnode.dev/). 
 
 :microphone: Occasionally, I speak at conferences.
 
